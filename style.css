@@ -2,3 +2,6 @@ body {
 	background-color: #ddd;
 	font-family: 'Langar', cursive,sans-serif;
 }
+ul li {
+	list-style-type: none;
+}
